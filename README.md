@@ -1,4 +1,5 @@
 # 💫 About Me:
+Author - Hasti Pipaliya<br>
 I am a Bachelor of Computer Applications (BCA) student with a growing <br>interest in Data Analysis. I am skilled in Python, SQL, and tools like Pandas,<br> NumPy, Matplotlib, and Scikit-learn. I’ve worked on small project in Python <br>using libraries like Tkinter and Pygame. I am also experienced creating web<br> tool using HTML, CSS, PHP, JavaScript, Bootstrap and currently focused on<br> learning Data Analysis, with the goal of turning raw data into meaningful <br>insights. I'm exploring tools like Excel, SQL, and Power BI to build my skills in<br> data cleaning, visualization, and interpretation.
 
 
